@@ -1,9 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",  // Semua rute yang tidak ditemukan
-      "destination": "/", // Redirect ke homepage
-      "permanent": false  // Redirect sementara (302)
+      "source": "/(.*)",  
+      "destination": "/", 
+      "permanent": false  
     }
   ]
 }
