@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",  
+      "source": "/404",   
       "destination": "/", 
       "permanent": false  
     }
