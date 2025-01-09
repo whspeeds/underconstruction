@@ -1,9 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/404",   
-      "destination": "/", 
-      "permanent": false  
+      "source": "/(.*)",   
+      "destination": "/",  
+      "permanent": false   
     }
   ]
 }
