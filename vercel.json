@@ -1,16 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "header",
-          "key": "x-vercel-error",
-          "value": "true" 
-        }
-      ],
-      "destination": "/",
-      "permanent": false
+      "source": "/:path*", 
+      "destination": "/", 
+      "permanent": false 
     }
   ]
 }
